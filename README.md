@@ -4,8 +4,7 @@ An interactive Tableau dashboard analyzing 1,300+ British Airways customer revie
 
 **[View Live Dashboard on Tableau Public →](https://public.tableau.com/app/profile/amna.soomro/viz/Aircraftdashboard_17868621706500/Dashboard1)**
 
-![Dashboard Overview](<img width="695" height="403" alt="image" src="https://github.com/user-attachments/assets/8a664dc9-af52-4c1f-9984-569b87603cb4" />
-)
+![Dashboard Overview](assets/dashboard_overview.png)
 
 ## What it does
 
@@ -21,7 +20,7 @@ Reviewers rate British Airways on 7 separate metrics (overall rating, cabin staf
 
 ## Demo
 
-![Dashboard Demo]()
+![Dashboard Demo](assets/dashboard_demo.gif)
 *Switching the metric parameter updates the map, trend line, and bar chart simultaneously.*
 
 ## Tools used
