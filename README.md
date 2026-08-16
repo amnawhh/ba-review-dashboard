@@ -20,7 +20,7 @@ Reviewers rate British Airways on 7 separate metrics (overall rating, cabin staf
 
 ## Demo
 
-![Dashboard Demo](assets/dashboard_demo.gif)
+[![Dashboard Demo](assets/dashboard_overview.png)](assets/dashboard_demo.mp4)
 *Switching the metric parameter updates the map, trend line, and bar chart simultaneously.*
 
 ## Tools used
